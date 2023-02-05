@@ -9,5 +9,5 @@
 
 ## Desserts
 
-* [Desserts](desserts/desserts.md)
-* [Traeger Chocolate Chip Cookies](desserts/traeger-chocolate-chip-cookies.md)
+* [Desserts](desserts/desserts/README.md)
+  * [Traeger Chocolate Chip Cookies](desserts/desserts/traeger-chocolate-chip-cookies.md)
