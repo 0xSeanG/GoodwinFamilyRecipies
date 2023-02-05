@@ -6,6 +6,6 @@ description: >-
 
 # Welcome
 
-[appetizers](appetizers/appetizers/ "mention")
+[appetizers](welcome/appetizers/ "mention")
 
 [Broken link](broken-reference "mention")
