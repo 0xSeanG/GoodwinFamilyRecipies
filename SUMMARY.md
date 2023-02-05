@@ -4,10 +4,10 @@
 
 ## Appetizers&#x20;
 
-* [Smoked Buffalo Chicken Bombs](appetizers/smoked-buffalo-chicken-bombs.md)
-* [Page 1](appetizers/page-1.md)
+* [Appetizers](appetizers/appetizers/README.md)
+  * [Smoked Buffalo Chicken Bombs](appetizers/appetizers/smoked-buffalo-chicken-bombs.md)
 
 ## Desserts
 
+* [Desserts](desserts/desserts.md)
 * [Traeger Chocolate Chip Cookies](desserts/traeger-chocolate-chip-cookies.md)
-* [Page 1](desserts/page-1.md)
