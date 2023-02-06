@@ -8,4 +8,6 @@ description: >-
 
 [appetizers](welcome/appetizers/ "mention")
 
+[sides](welcome/sides/ "mention")
+
 [desserts](welcome/desserts/ "mention")
