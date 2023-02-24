@@ -3,6 +3,7 @@
 * [Welcome](README.md)
   * [Appetizers](welcome/appetizers/README.md)
     * [Smoked Buffalo Chicken Bombs](welcome/appetizers/smoked-buffalo-chicken-bombs.md)
+    * [Olive Dip](welcome/appetizers/olive-dip.md)
   * [Sides](welcome/sides/README.md)
     * [Popovers](welcome/sides/popovers.md)
   * [Desserts](welcome/desserts/README.md)
