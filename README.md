@@ -8,7 +8,7 @@ description: >-
 
 [appetizers](welcome/appetizers/ "mention")
 
-[main] (welcome/main/ "mention")
+[main](welcome/main/ "mention")
 
 [sides](welcome/sides/ "mention")
 
