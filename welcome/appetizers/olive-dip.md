@@ -3,7 +3,7 @@
 * 4 cups grated cheddar
 * 1 medium onion, finely chopped
 * Green olives finely chopped (to taste, roughly 1 cup)
-  * Can substitute or added Jalapenos
+  * Can substitute or add Jalapenos
 * 1/2 cup mayonnaise
 * 1/2 cup sour cream
 * 1/2 cup chopped green onion
