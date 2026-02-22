@@ -46,7 +46,7 @@
 * [Potato Gratin with Spring Onions](sides/potato-gratin-with-spring-onions.md)
 * [Sweet Baked Brussels Sprouts](sides/sweet-baked-brussels-sprouts.md)
 * [Broccoli Slaw](sides/broccoli-slaw.md)
-* [Page 1](sides/page-1.md)
+* [Classic Creamed Onions](sides/classic-creamed-onions.md)
 
 ## Dessert
 
