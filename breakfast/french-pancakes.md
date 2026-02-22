@@ -13,4 +13,4 @@
 
 1. Warm milk and butter together in a saucepan until butter is melted. Remove from heat and let cool slightly.
 2. Beat eggs, flour, baking powder, and salt together until smooth. Pour in the cooled milk and butter mixture and beat everything together until smooth.
-3. Cook on a greased pan or griddle over medium heat as you would pancakes, but expect faster cook times — watch closely and flip when bubbles form.
+3. Cook on a greased pan or griddle over high heat as you would pancakes, but expect faster cook times — watch closely and flip when bubbles form.
