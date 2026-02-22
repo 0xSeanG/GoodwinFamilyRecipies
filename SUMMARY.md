@@ -12,6 +12,8 @@
 * [Olive Dip](appetizers/olive-dip.md)
 * [Chicken Crescent Wreath](appetizers/chicken-crescent-wreath.md)
 * [Smoked Sweet Kielbasa Bites](appetizers/smoked-sweet-kielbasa-bites.md)
+* [LuLu's Cheeseball](appetizers/lulus-cheeseball.md)
+* [Spinach and Artichoke Dip](appetizers/spinach-and-artichoke-dip.md)
 
 ## Main
 
@@ -20,6 +22,12 @@
 * [Beef and Broccoli](main/beef-and-broccoli.md)
 * [Creamy Chicken Carbonara](main/creamy-chicken-carbonara.md)
 * [Skinny Lasagna Rolls](main/skinny-lasagna-rolls.md)
+* [Slow Cooker Pulled Beef for Tacos](main/slow-cooker-pulled-beef-for-tacos.md)
+* [One-Pot Cheesy Chicken and Broccoli Orzo](main/one-pot-cheesy-chicken-and-broccoli-orzo.md)
+* [Eggplant Parmigiana](main/eggplant-parmigiana.md)
+* [Chicken Tuscan Pasta with Sun-Dried Tomatoes](main/chicken-tuscan-pasta-with-sun-dried-tomatoes.md)
+* [Homemade Chicken Lo Mein](main/homemade-chicken-lo-mein.md)
+* [Garlic Parmesan Chicken & Broccoli Orzo Skillet](main/garlic-parmesan-chicken-and-broccoli-orzo-skillet.md)
 
 ## Sides
 
@@ -28,6 +36,8 @@
 * [Chipotle Corn Salsa (Copycat)](sides/chipotle-corn-salsa-copycat.md)
 * [Green Bean Casserole](sides/green-bean-casserole.md)
 * [Potato Gratin with Spring Onions](sides/potato-gratin-with-spring-onions.md)
+* [Sweet Baked Brussels Sprouts](sides/sweet-baked-brussels-sprouts.md)
+* [Broccoli Slaw](sides/broccoli-slaw.md)
 
 ## Dessert
 
