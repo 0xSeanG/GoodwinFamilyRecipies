@@ -6,6 +6,7 @@
 
 * [French Pancakes](breakfast/french-pancakes.md)
 * [Gorton (French-Canadian Pork Spread)](breakfast/gorton-french-canadian-pork-spread.md)
+* [Best Yet Banana Mini Muffins](breakfast/best-yet-banana-mini-muffins.md)
 
 ## Appetizers
 
@@ -45,6 +46,7 @@
 * [Potato Gratin with Spring Onions](sides/potato-gratin-with-spring-onions.md)
 * [Sweet Baked Brussels Sprouts](sides/sweet-baked-brussels-sprouts.md)
 * [Broccoli Slaw](sides/broccoli-slaw.md)
+* [Page 1](sides/page-1.md)
 
 ## Dessert
 
