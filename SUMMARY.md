@@ -5,6 +5,7 @@
 ## Breakfast
 
 * [French Pancakes](breakfast/french-pancakes.md)
+* [Gorton (French-Canadian Pork Spread)](breakfast/gorton-french-canadian-pork-spread.md)
 
 ## Appetizers
 
@@ -30,6 +31,10 @@
 * [Garlic Parmesan Chicken & Broccoli Orzo Skillet](main/garlic-parmesan-chicken-and-broccoli-orzo-skillet.md)
 * [Easy Chicken Sandwich on the Griddle](main/easy-chicken-sandwich-on-the-griddle.md)
 * [Thai Turkey Meal Prep Lettuce Wraps](main/thai-turkey-meal-prep-lettuce-wraps.md)
+* [Coffee-Braised Chuck Roast](main/coffee-braised-chuck-roast.md)
+* [American Chop Suey](main/american-chop-suey.md)
+* [Corned Beef & Cabbage](main/corned-beef-and-cabbage.md)
+* [Chicken Marsala](main/chicken-marsala.md)
 
 ## Sides
 
