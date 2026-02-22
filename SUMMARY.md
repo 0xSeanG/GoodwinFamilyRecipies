@@ -28,6 +28,8 @@
 * [Chicken Tuscan Pasta with Sun-Dried Tomatoes](main/chicken-tuscan-pasta-with-sun-dried-tomatoes.md)
 * [Homemade Chicken Lo Mein](main/homemade-chicken-lo-mein.md)
 * [Garlic Parmesan Chicken & Broccoli Orzo Skillet](main/garlic-parmesan-chicken-and-broccoli-orzo-skillet.md)
+* [Easy Chicken Sandwich on the Griddle](main/easy-chicken-sandwich-on-the-griddle.md)
+* [Thai Turkey Meal Prep Lettuce Wraps](main/thai-turkey-meal-prep-lettuce-wraps.md)
 
 ## Sides
 
