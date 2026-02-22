@@ -6,3 +6,4 @@ description: >-
 
 # Welcome
 
+<figure><img src=".gitbook/assets/IMG_2334.PNG" alt=""><figcaption></figcaption></figure>
