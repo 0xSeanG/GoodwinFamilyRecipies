@@ -17,9 +17,9 @@ Servings: 9 (makes nine lasagna rolls)
 
 ### Directions
 
-1. Preheat oven to 350°.
+1. Preheat oven to 350°F.
 2. In a medium bowl, combine spinach, ricotta, Parmesan, egg, salt and pepper.
-3. Spoon about one cup sauce on the bottom of a 9 x 12 baking dish (or use mini baking dishes if you want to freeze or share).
+3. Spoon about one cup sauce on the bottom of a 9 x 12 inch baking dish (or use mini baking dishes if you want to freeze or share).
 4. Place a piece of wax or parchment paper on the counter and lay out lasagna noodles.
 5. Make sure noodles are dry.
 6. Spread ⅓ cup of ricotta mixture evenly over noodle.
