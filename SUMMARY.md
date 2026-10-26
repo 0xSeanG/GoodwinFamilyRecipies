@@ -37,6 +37,14 @@
 * [Corned Beef & Cabbage](main/corned-beef-and-cabbage.md)
 * [Chicken Marsala](main/chicken-marsala.md)
 
+## Sandwiches
+
+* [Philly Roast Pork Sandwich](sandwiches/philly-roast-pork-sandwich.md)
+
+## Soups
+
+* [Loaded Reuben Potato Soup](soups/loaded-reuben-potato-soup.md)
+
 ## Sides
 
 * [Popovers](sides/popovers.md)
@@ -57,3 +65,4 @@
 
 * [Chocolate Chip Banana Bread](bread/chocolate-chip-banana-bread.md)
 * [Pumpkin Bread](bread/pumpkin-bread.md)
+* [Easy Homemade Soft Pretzels](bread/easy-homemade-soft-pretzels.md)
