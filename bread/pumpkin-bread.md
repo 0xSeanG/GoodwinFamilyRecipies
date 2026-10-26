@@ -1,6 +1,8 @@
 # Pumpkin Bread
 
-Source: [https://natashaskitchen.com/pumpkin-bread/](https://natashaskitchen.com/pumpkin-bread/) Servings: 16 slices (2 loaves) | Prep: 10 min | Cook: 50 min
+Source: [https://natashaskitchen.com/pumpkin-bread/](https://natashaskitchen.com/pumpkin-bread/)
+
+Servings: 16 slices (2 loaves) | Prep: 10 min | Cook: 50 min
 
 ### Ingredients
 

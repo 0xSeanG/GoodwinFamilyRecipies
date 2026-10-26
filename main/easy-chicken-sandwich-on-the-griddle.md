@@ -1,6 +1,6 @@
 # Easy Chicken Sandwich on the Griddle
 
-Total: \~20 min | Servings: 4
+Total: \~20 min
 
 ### Ingredients
 
@@ -42,3 +42,9 @@ Total: \~20 min | Servings: 4
 5. **Toast bread:** Spread garlic butter on sourdough and toast butter-side down 1–2 minutes until golden.
 6. **Make sauce:** Whisk all sauce ingredients until smooth. Adjust to taste.
 7. **Assemble:** Spread sauce on bottom slice of bread. Layer chicken, veggies, bacon, more sauce, then top slice. Slice and serve.
+
+### Notes & Tips
+
+* Use different griddle heat zones to cook components simultaneously.
+* Seasoning blend creates a flavorful crust on the chicken.
+* Try brioche, ciabatta, or add jalapenos or pineapple for variation.

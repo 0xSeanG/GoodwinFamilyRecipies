@@ -1,6 +1,8 @@
 # Garlic Parmesan Chicken & Broccoli Orzo Skillet
 
-Source: Elina Recipes Servings: 4 | Prep: 10 min | Cook: 25 min | Total: 35 min
+Source: Elina Recipes
+
+Servings: 4 | Prep: 10 min | Cook: 25 min | Total: 35 min
 
 ### Ingredients
 

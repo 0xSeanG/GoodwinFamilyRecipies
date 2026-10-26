@@ -1,6 +1,8 @@
 # Classic Creamed Onions
 
-Source: [https://auntnellies.com/classic-creamed-onions/](https://auntnellies.com/classic-creamed-onions/) Servings: 8 | Total: 25 min
+Source: [https://auntnellies.com/classic-creamed-onions/](https://auntnellies.com/classic-creamed-onions/)
+
+Servings: 8 | Total: 25 min
 
 ### Ingredients
 

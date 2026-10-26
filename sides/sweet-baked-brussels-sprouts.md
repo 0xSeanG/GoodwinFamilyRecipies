@@ -1,6 +1,6 @@
 # Sweet Baked Brussels Sprouts
 
-Servings: 4 | Temp: 400°F | Cook: 25–30 min
+Temp: 400°F | Cook: 25–30 min
 
 ### Ingredients
 

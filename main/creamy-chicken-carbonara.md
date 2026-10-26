@@ -1,6 +1,8 @@
 # Creamy Chicken Carbonara
 
-Source: [https://kitchenswagger.com/creamy-chicken-carbonara-recipe/](https://kitchenswagger.com/creamy-chicken-carbonara-recipe/) Servings: 6 | Prep: 15 min | Cook: 15 min | Total: 30 min
+Source: [https://kitchenswagger.com/creamy-chicken-carbonara-recipe/](https://kitchenswagger.com/creamy-chicken-carbonara-recipe/)
+
+Servings: 6 | Prep: 15 min | Cook: 15 min | Total: 30 min
 
 Note from Chew: "Add Peas!"
 

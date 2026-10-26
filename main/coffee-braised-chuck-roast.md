@@ -1,6 +1,8 @@
 # Coffee-Braised Chuck Roast
 
-Source: [https://andrewgruel.substack.com/p/coffee-braised-chuck-roast](https://andrewgruel.substack.com/p/coffee-braised-chuck-roast) Servings: 6 | Cook: 3–4 hrs | Temp: 300°F
+Source: [https://andrewgruel.substack.com/p/coffee-braised-chuck-roast](https://andrewgruel.substack.com/p/coffee-braised-chuck-roast)
+
+Servings: 6 | Cook: 3–4 hrs | Temp: 300°F
 
 ### Ingredients
 
