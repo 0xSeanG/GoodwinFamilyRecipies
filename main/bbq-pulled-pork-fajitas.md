@@ -1,6 +1,8 @@
 # BBQ Pulled-Pork Fajitas
 
-Source: Family recipe (Rdsouc → Mic3Dav, 1/8/2004) Servings: 18 fajitas
+Source: Family recipe (Mamma G)
+
+Servings: 18 fajitas
 
 ### Ingredients
 

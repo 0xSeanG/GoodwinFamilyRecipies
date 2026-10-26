@@ -1,6 +1,8 @@
 # Potato Gratin with Spring Onions
 
-Source: [https://www.foodnetwork.com/recipes/food-network-kitchen/potato-gratin-with-spring-onions](https://www.foodnetwork.com/recipes/food-network-kitchen/potato-gratin-with-spring-onions) Servings: 8 | Active: 40 min | Total: 1 hr 45 min
+Source: [https://www.foodnetwork.com/recipes/food-network-kitchen/potato-gratin-with-spring-onions](https://www.foodnetwork.com/recipes/food-network-kitchen/potato-gratin-with-spring-onions)
+
+Servings: 8 | Active: 40 min | Total: 1 hr 45 min
 
 ### Ingredients
 

@@ -1,6 +1,8 @@
 # One-Pot Cheesy Chicken and Broccoli Orzo
 
-Source: [https://whatsmomcookin.com/one-pot-cheesy-chicken-and-broccoli-orzo/](https://whatsmomcookin.com/one-pot-cheesy-chicken-and-broccoli-orzo/) Servings: 6 | Total: \~30 min
+Source: [https://whatsmomcookin.com/one-pot-cheesy-chicken-and-broccoli-orzo/](https://whatsmomcookin.com/one-pot-cheesy-chicken-and-broccoli-orzo/)
+
+Servings: 6 | Total: \~30 min
 
 ### Ingredients
 

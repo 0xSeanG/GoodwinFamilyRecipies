@@ -1,6 +1,8 @@
 # Best Yet Banana Mini Muffins
 
-Source: Allrecipes.com (submitted by cathy) Yield: 48 mini muffins | Prep: 20 min | Cook: 15 min | Total: 35 min
+Source: Allrecipes.com (submitted by cathy)
+
+Yield: 48 mini muffins | Prep: 20 min | Cook: 15 min | Total: 35 min
 
 ### Ingredients
 

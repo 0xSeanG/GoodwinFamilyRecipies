@@ -1,6 +1,8 @@
 # Beef and Broccoli
 
-Source: [https://natashaskitchen.com/beef-and-broccoli/](https://natashaskitchen.com/beef-and-broccoli/) Servings: 4 | Prep: 17 min | Cook: 13 min | Total: 30 min
+Source: [https://natashaskitchen.com/beef-and-broccoli/](https://natashaskitchen.com/beef-and-broccoli/)
+
+Servings: 4 | Prep: 17 min | Cook: 13 min | Total: 30 min
 
 ### Ingredients
 
