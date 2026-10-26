@@ -1,43 +1,45 @@
 # Loaded Reuben Potato Soup
-Source: https://www.facebook.com/watch/?v=683006401540952&vanity=61582891811222
 
-Servings: 6 | Total: 45 min
+Source: [https://www.facebook.com/watch/?v=683006401540952&vanity=61582891811222](https://www.facebook.com/watch/?v=683006401540952&vanity=61582891811222)
 
-## Ingredients
+### Ingredients
 
-### Soup
-- 6 slices bacon, chopped
-- 2 tbsp butter
-- 1 tbsp olive oil
-- 1 small yellow onion, diced
-- 2 carrots, diced
-- 2 celery stalks, diced
-- 6 garlic cloves, minced
-- 2 medium Yukon Gold potatoes, diced
-- ¼ cup all-purpose flour
-- 4 cups chicken broth
-- 1 cup heavy cream
-- 1 cup milk
-- 2 tsp Dijon mustard
-- 1 tsp Worcestershire sauce
-- 1 cup sauerkraut, drained
-- 2 cups cooked corned beef, chopped
-- 1½ cups shredded Swiss cheese
-- 1 cup shredded smoked Gruyère
-- ¼ tsp ground thyme
-- ½ tsp paprika
-- Red pepper flakes, to taste
-- Black pepper, to taste
-- Salt, to taste
+#### Soup
 
-### Toppings
-- Thousand Island dressing
-- Extra chopped corned beef
-- Reserved crispy bacon
-- Shredded smoked Gruyère
-- Green onions, sliced
+* 6 slices bacon, chopped
+* 2 tbsp butter
+* 1 tbsp olive oil
+* 1 small yellow onion, diced
+* 2 carrots, diced
+* 2 celery stalks, diced
+* 6 garlic cloves, minced
+* 2 medium Yukon Gold potatoes, diced
+* ¼ cup all-purpose flour
+* 4 cups chicken broth
+* 1 cup heavy cream
+* 1 cup milk
+* 2 tsp Dijon mustard
+* 1 tsp Worcestershire sauce
+* 1 cup sauerkraut, drained
+* 2 cups cooked corned beef, chopped
+* 1½ cups shredded Swiss cheese
+* 1 cup shredded smoked Gruyère
+* ¼ tsp ground thyme
+* ½ tsp paprika
+* Red pepper flakes, to taste
+* Black pepper, to taste
+* Salt, to taste
 
-## Directions
+#### Toppings
+
+* Thousand Island dressing
+* Extra chopped corned beef
+* Reserved crispy bacon
+* Shredded smoked Gruyère
+* Green onions, sliced
+
+### Directions
+
 1. In a large pot over medium heat, cook chopped bacon until crisp. Remove and set aside, reserving some for topping.
 2. Add butter and olive oil to the pot. Add onion, carrots, celery, and garlic; cook until softened and fragrant.
 3. Add diced potatoes and stir. Sprinkle in flour and cook 1–2 minutes, stirring constantly, until everything is coated.
